@@ -1,0 +1,6 @@
+customer_code	customer_id	integer	true
+company_name	company	string	true
+contact_email	email	string	false
+active	is_active	boolean	true
+credit_limit	credit_limit	number	false
+notes	notes	string	false

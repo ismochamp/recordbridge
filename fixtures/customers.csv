@@ -1,0 +1,5 @@
+customer_code,company_name,contact_email,active,credit_limit,notes
+1001,"Northwind, Studio",hello@example.com,yes,1250.50,"Quoted comma retained"
+1002,Fieldwork Lab,team@example.org,no,850,"Two-line note:
+review next quarter"
+1003,"Müller & Co.",office@example.net,true,2200,"UTF-8 and ""quoted text"" preserved"
