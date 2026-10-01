@@ -104,7 +104,6 @@ Windows compilation and runtime compatibility have not been tested. Use a filesy
 - `web/`: browser interface; all assets load locally.
 - `fixtures/`: explicitly labeled reproducible verification inputs.
 - `tests/`: behavior checks against the real compiled engine and Python adapter.
-- `CASE_STUDY.md`: factual portfolio narrative.
 - `screenshots/`: captures of the running application with labeled verification inputs.
 
 ## License
